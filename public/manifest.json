@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "GPT extension",
+    "author": "Muzammil & Amit",
+    "version": "1.0",
+    "description": "Let's talk with AI."
+}
+  
