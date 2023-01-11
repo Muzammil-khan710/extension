@@ -13,7 +13,7 @@
   padding: 10px;
 }
 .extension {
-  height: 70vh;
+  /* height: 70vh; */
   width: 300px;
   border: 2px solid black;
   display: flex;
@@ -26,13 +26,14 @@
   border-radius: 20px;
 }
 .header {
-  height: 50px;
+  /* height: 50px; */
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
+  padding: 15px;
 }
-h1 {
+header_text {
   font-size: 20px;
   text-align: center;
   color: rgb(243, 155, 40);
