@@ -1,3 +1,15 @@
+:root {
+  --color-background: #0f172a;
+  --color-text: #cbd5e1;
+  --color-list: #334155;
+  --color-input: #6b7280;
+}
+
+html {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -87,17 +99,6 @@ input {
 .botimg {
   height: 20px;
   width: 20px;
-}
-:root {
-  --color-background: #0f172a;
-  --color-text: #cbd5e1;
-  --color-list: #334155;
-  --color-input: #6b7280;
-}
-
-html {
-  background-color: var(--color-background);
-  color: var(--color-text);
 }
 
 .login-form {
